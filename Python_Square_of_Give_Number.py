@@ -1,0 +1,1 @@
+print('Square of {} is {}'.format(5, 5**2))
